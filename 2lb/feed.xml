@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2023-10-01">
+    <shop>
+        <name>Шатура</name>
+        <company>Шатура Мебель</company>
+        <url>https://www.shatura.com</url>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1">Диваны</category>
+        </categories>
+        <offers>
+            <offer id="divan1" available="true">
+                <url>https://www.shatura.com/goods/1</url>
+                <price>25000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://www.shatura.com/images/divan1.jpg</picture>
+                <name>Диван "Комфорт"</name>
+                <description>Удобный диван с мягкими подушками и стильным дизайном.</description>
+            </offer>
+            <offer id="divan2" available="true">
+                <url>https://www.shatura.com/goods/2</url>
+                <price>30000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://www.shatura.com/images/divan2.jpg</picture>
+                <name>Диван "Элегант"</name>
+                <description>Элегантный диван с возможностью трансформации в кровать.</description>
+            </offer>
+            <offer id="divan3" available="true">
+                <url>https://www.shatura.com/goods/3</url>
+                <price>35000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://www.shatura.com/images/divan3.jpg</picture>
+                <name>Диван "Люкс"</name>
+                <description>Люкс-класс диван с натуральной кожей и современным дизайном.</description>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
